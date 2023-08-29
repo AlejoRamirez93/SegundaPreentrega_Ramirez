@@ -1,0 +1,14 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm install",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "Alejandro Ramírez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
